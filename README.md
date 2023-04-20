@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![flash_chat_flutter](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
